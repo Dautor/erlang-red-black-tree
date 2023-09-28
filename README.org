@@ -1,0 +1,4 @@
+* [[https://en.wikipedia.org/wiki/Red%E2%80%93black_tree][Red-black tree]]
+Implemented in [[https://en.wikipedia.org/wiki/Erlang_(programming_language)][Erlang]].
+
+If you find it useful, feel free to [[mailto:karlo98.m@gmail.com][message me]] and let me know!
